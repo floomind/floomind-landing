@@ -45,19 +45,19 @@ Este proyecto es un **caso de diseño y producto**. Mi aporte fue la concepción
 
 <div align="center">
 
-<img src="01_hero.jpeg" width="600" alt="Hero con cuenta regresiva"/>
+<img src="01_hero.png" width="600" alt="Hero con cuenta regresiva"/>
 
 _Hero: mensaje de misión, cuenta regresiva y llamada a la acción «Únete»._
 
 <br/>
 
-<img src="02_reclutamiento.jpeg" width="600" alt="Formulario de reclutamiento con video"/>
+<img src="02_reclutamiento.png" width="600" alt="Formulario de reclutamiento con video"/>
 
 _Sección «Únete a nuestro equipo»: video de bienvenida + formulario de postulación (nombre, edad, email, ciudad, área de interés y experiencia) con reCAPTCHA._
 
 <br/>
 
-<img src="03_sobre_nosotros.jpeg" width="600" alt="Sección Sobre Nosotros"/>
+<img src="03_sobre_nosotros.png" width="600" alt="Sección Sobre Nosotros"/>
 
 _Sección «Sobre Nosotros»: relato del proyecto, misión y principios._
 
@@ -112,3 +112,5 @@ Construido en **React** (JavaScript), con **Google reCAPTCHA** para la protecci�
 
 [![Email](https://img.shields.io/badge/Email-agustin.formica@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:agustin.formica@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agustín--formica-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustín-formica)
+
+
